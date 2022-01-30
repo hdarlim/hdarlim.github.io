@@ -13,7 +13,7 @@ I use [Quartz](https://quartz.jzhao.xyz/), a project by [Jacky Zhao](https://git
 
 ### caravinalia
 
-My [“personal” blog](https://caravinalia.wordpress.com/) containing texts, translations and notes. I stopped writing for it but I plan to return as soon as I find how to organize it better.
+My [“personal”](https://caravinalia.wordpress.com/) blog containing texts, translations and notes. I stopped writing for it but I plan to return as soon as I find how to organize it better.
 
 ---
 
