@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub page
 
-You can use the [editor on GitHub](https://github.com/hdarlim/hdarlim.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hello, I'm Henrique Darlim.  
+You can use the links below to access my projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Deleuze tribute page
 
-### Markdown
+A [tribute page](https://hdarlim.github.io/deleuze/) to the French philosopher Gilles Deleuze, made as a FreeCodeCamp project to obtain my certificate in [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### My digital garden
 
-```markdown
-Syntax highlighted code block
+I use [Quartz](https://quartz.jzhao.xyz/), a project by [Jacky Zhao](https://github.com/jackyzha0), to ease the process of digital gardening. I'm still learning how to use it properly — but maybe it's meant to be an everlasting learning movement. You can take a look at it [here](https://hdarlim.github.io/quartz/).
 
-# Header 1
-## Header 2
-### Header 3
+### caravinalia
 
-- Bulleted
-- List
+My [“personal” blog](https://caravinalia.wordpress.com/) containing texts, translations and notes. I stopped writing for it but I plan to return as soon as I find how to organize it better.
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hdarlim/hdarlim.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+For now that's it!
